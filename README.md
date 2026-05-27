@@ -41,13 +41,11 @@ Website ini dibuat untuk mempermudah pengguna dalam melihat katalog produk sepat
 
 ### Halaman Home
 
-![Home](<img width="1911" height="1021" alt="Cuplikan layar 2026-05-27 162833" src="https://github.com/user-attachments/assets/49afbef2-6501-4519-9f20-71459f8cf4c1" />
-)
+![Home](home.png)
 
 ### Katalog Produk
 
-![Produk](<img width="1919" height="1041" alt="Cuplikan layar 2026-05-27 162850" src="https://github.com/user-attachments/assets/39edf97a-0c24-4b5d-a9c4-3d88d7066727" />
-)
+![Produk](katalogproduk.png)
 
 ---
 
