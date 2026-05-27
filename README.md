@@ -53,13 +53,6 @@ Website ini dibuat untuk mempermudah pengguna dalam melihat katalog produk sepat
 
 ---
 
-## ⚙️ Cara Menjalankan Project
-
-1. Download project
-2. Extract file project
-3. Buka folder menggunakan VS Code
-4. Jalankan file index.html di browser
-
 ---
 
 ## 👨‍💻 Developer
