@@ -19,7 +19,7 @@ Website ini dibuat untuk mempermudah pengguna dalam melihat katalog produk sepat
 
 ## ✨ Fitur Utama
 
-* 🏠 Halaman Home
+* 🏠 Home
 * 👟 Katalog Produk Sepatu
 * 🔍 Tampilan Detail Produk
 * 📱 Responsive Design
