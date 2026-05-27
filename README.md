@@ -39,7 +39,7 @@ Website ini dibuat untuk mempermudah pengguna dalam melihat katalog produk sepat
 
 ## 📸 Preview
 
-### Halaman Home
+### Home
 
 ![Home](home.png)
 
@@ -52,4 +52,6 @@ Website ini dibuat untuk mempermudah pengguna dalam melihat katalog produk sepat
 ## 👨‍💻 Developer
 
 Project dibuat untuk tugas Web Development.
+
+MHD GRENDELZKY RAMADHAN XI TKJ 1
 
